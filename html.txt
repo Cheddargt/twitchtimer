@@ -1,0 +1,4 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<link href="https://fonts.googleapis.com/css?family={{mainTextFontName}}:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family={{eventTextFontName}}:400,700" rel="stylesheet">
+<span><span id="cdtimer" class="main-container"></span><span id="event" class="event-container"></span></span>
